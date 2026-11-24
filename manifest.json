@@ -1,0 +1,12 @@
+{
+    "display_name": "Summaryception (Stockpile)",
+    "loading_order": 50,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Lodactio",
+    "version": "5.6.0-stockpile",
+    "homePage": "https://github.com/yayaya872/Extension-Summaryception-Stockpile",
+    "auto_update": true
+}
